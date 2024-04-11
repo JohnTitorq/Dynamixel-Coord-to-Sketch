@@ -1,3 +1,8 @@
+#
+#   Code by JohnTitorq. GitHub: https://github.com/JohnTitorq
+#   Copyright © 2024 JohnTitorq. All rights reserved.
+#   
+
 from typing import Tuple
 import customtkinter as ctk
 import tkinter as tk
